@@ -1,0 +1,14 @@
+{
+    "app_name": "VBAPJ",
+    "description": "A Begginer Test",
+    "author": "Aman Tairo",
+    "email": "tairocruise@yahoo.com",
+    "create_ate": "Mon Oct 17 2022 19:32:50 GMT+0300 (East Africa Time)",
+    "excel_file": "public/index.xlsb",
+    "vba_folder": "vba-files",
+    "ribbon_file": "customUI14",
+    "ribbon_folder": "ribbons",
+    "logs": "on",
+    "xvba_packages": {},
+    "xvba_dev_packages": {}
+}
